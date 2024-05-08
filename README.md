@@ -104,7 +104,7 @@ print(f"Input:{np.array([1, 0])}, Predicted: {predict_matrix(np.array([1, 0]), w
 print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w)}")
 
 ```
-<H3>OUTPUT:</H3>
+### OUTPUT:
 ![image](https://github.com/Janani-2003/Ex-5--NN/assets/94288340/044bdb65-a025-4160-9c7c-63ca98e73b0a)
 
 <H3>Result:</H3>
